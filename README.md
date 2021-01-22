@@ -7,4 +7,5 @@ This mask allows to input only numbers, and automatically shows a mask of the ph
 
 "phoneInputElement" - means the selector of your phone input in the form
 
-In order to work perfectly in the form, a script for the form button is needed, which will prohibit form submission unless all the numbers are written.
+In order to work perfectly in the form, a script for the form button is needed, which will prohibit form submission unless all the numbers are written. Will be working on it later.
+
